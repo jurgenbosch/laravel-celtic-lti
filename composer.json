@@ -1,7 +1,7 @@
 {
   "name": "longhornopen/laravel-celtic-lti",
   "type": "library",
-  "description": "A Laravel wrapper for https://github.com/celtic-project/LTI-PHP",
+  "description": "A  Laravel wrapper for https://github.com/celtic-project/LTI-PHP",
   "keywords": ["laravel","lti","celtic-project"],
   "homepage": "https://github.com/longhornopen/",
   "license": "LGPL-3.0-or-later",
